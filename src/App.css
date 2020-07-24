@@ -1,0 +1,9 @@
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  color: black;
+}
+
+.App-select {
+  color: black !important;
+}
